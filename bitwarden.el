@@ -1,6 +1,7 @@
 ;;; bitwarden.el --- Bitwarden command wrapper -*- lexical-binding: t -*-
 
-;; Copyright (C) 2018  Sean Farley
+;; Copyright (C) 2018-2019  Sean Farley
+;; Copyright (C) 2019  Gaelan D'costa
 
 ;; Author: Sean Farley
 ;; URL: https://github.com/seanfarley/emacs-bitwarden
